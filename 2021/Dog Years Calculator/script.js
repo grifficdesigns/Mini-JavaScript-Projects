@@ -1,4 +1,4 @@
-// input calculation
+// input age calculation
 function ageInDogYears() {
   let myAge = document.getElementById("years").value;
   let dogAge = myAge / 7;
